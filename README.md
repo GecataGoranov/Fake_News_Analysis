@@ -1,6 +1,7 @@
 # Fake News Analysis (EDA and Linguistic Feature Extraction)
 
-This project explores the distinction between **real** and **fake news** using **exploratory data analysis (EDA)** and **linguistic feature extraction**. The analysis focuses on understanding key characteristics of fake news, including text length, sentiment, readability, and lexical diversity.
+This project explores the distinction between **real** and **fake news** using **exploratory data analysis (EDA)** and **linguistic feature extraction**. The analysis focuses on understanding key characteristics of fake news, including text length, sentiment, readability, and lexical diversity. The notebook can be seen by clicking the following binder button:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GecataGoranov/Fake_News_Analysis)
 
 ## Overview
 
